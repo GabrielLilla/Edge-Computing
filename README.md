@@ -47,4 +47,4 @@ As seguintes bibliotecas são necessárias e podem ser adicionadas diretamente n
 
 ## Links do Projeto
 - [Projeto Edge-Computing no Wokwi](https://wokwi.com/projects/399855460841373697)
-- [Projeto Edge-Computing no youtube](https://youtu.be/2R1V5cfH3U8?si=G7ETD70PKKMalDOu)
+- [Vídeo do Projeto Edge-Computing no youtube](https://youtu.be/2R1V5cfH3U8?si=G7ETD70PKKMalDOu)
