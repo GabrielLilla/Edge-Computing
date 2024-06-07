@@ -1,5 +1,10 @@
 # Edge-Computing
 
+## Integrantes
+- Caio Felipe de Lima Bezerra | RM 556197
+- Gabriel Terra Lilla dos Santos | RM 554575
+- Ricardo Cerazi di Tilia | RM 555155
+
 ## Descrição
 Este projeto monitora as condições ambientais para a fotossíntese de algas marinhas. Utiliza um sensor de temperatura DHT22, um sensor de luminosidade LDR e um display LCD I2C para medir e exibir a temperatura e a luminosidade. O sistema também indica se os valores medidos estão em níveis críticos ou normais, o que pode ser um indicativo da qualidade da água.
 
