@@ -41,4 +41,4 @@ As seguintes bibliotecas são necessárias e podem ser adicionadas diretamente n
   - Procure por "LiquidCrystal_I2C" na biblioteca do Wokwi e adicione ao projeto.
 
 ## Link do Projeto
-- Projeto Edge-Computing no Wokwi
+- [Projeto Edge-Computing no Wokwi](https://wokwi.com/projects/399855460841373697)
